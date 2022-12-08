@@ -72,6 +72,10 @@ let b = currencyTwoEl.value;
 currencyOneEl.value = b;
 currencyTwoEl.value = a;
 
+let c = amountOneEl.value;
+let d = amountTwoEl.value;
 
+amountOneEl.value = d;
+amountTwoEl.value = c;
 
 }
